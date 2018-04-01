@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: ea6de5752de1dc94e8d062f165abb041
+  - enabled: 1
+    path: Assets/Scenes/Boys room.unity
+    guid: 18b532cd3610a4b4383e8f01a4b2d1cf
