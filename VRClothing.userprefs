@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UMA/Core/Extensions/DynamicCharacterSystem/Scripts/DynamicCharacterAvatar.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BackDress.cs">
     <Files>
-      <File FileName="Assets/Scripts/clothes.cs" Line="8" Column="18" />
-      <File FileName="Assets/UMA/Core/Extensions/DynamicCharacterSystem/Scripts/DynamicCharacterAvatar.cs" Line="3285" Column="1" />
+      <File FileName="Assets\UMA\Core\Extensions\DynamicCharacterSystem\Scripts\DynamicCharacterAvatar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dress.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackDress.cs" Line="19" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
