@@ -191,7 +191,7 @@
      <None Include="Assets\UMA\Core\Scripts\Editor\Templates\UmaDnaChild_SetValue_Fragment.cs.txt" />
      <None Include="Assets\UMA\Core\Scripts\Editor\Templates\UmaDnaChild_GetValue_Fragment.cs.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/MLH Admin/Desktop/new version/VRClothing/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/MLH Admin/Documents/GitHub/VRClothing/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions.Editor">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
@@ -287,10 +287,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/Facebook/UnityEditor.Facebook.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>C:/Users/MLH Admin/Desktop/new version/VRClothing/Assets/LeapMotion/Core/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>C:/Users/MLH Admin/Documents/GitHub/VRClothing/Assets/LeapMotion/Core/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
  <Reference Include="InteractionEngineUtility">
- <HintPath>C:/Users/MLH Admin/Desktop/new version/VRClothing/Assets/LeapMotion/Modules/InteractionEngine/Plugins/InteractionEngineUtility.dll</HintPath>
+ <HintPath>C:/Users/MLH Admin/Documents/GitHub/VRClothing/Assets/LeapMotion/Modules/InteractionEngine/Plugins/InteractionEngineUtility.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/MLH Admin/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
